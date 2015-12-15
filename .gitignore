@@ -3,3 +3,8 @@ pubspec.yaml
 NOTES
 .project
 .children
+.packages
+.pub/
+packages/
+packages
+pubspec.lock

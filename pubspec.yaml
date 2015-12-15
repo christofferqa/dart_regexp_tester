@@ -5,3 +5,6 @@ description: A simple RegExp tester
 homepage: http://www.claudiodangelis.com/projects/regexptester
 dependencies:
   browser: any
+dev_dependencies:
+  runtime:
+    path: ../../../web_runtime
